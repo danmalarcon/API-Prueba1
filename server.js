@@ -1,14 +1,11 @@
+// server.js
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
-// Render asigna un puerto dinámicamente. Usamos process.env.PORT para tomarlo.
-// Si no existe (en local), usamos el puerto 3001.
-const port = process.env.PORT || 3001;
-
 server.use(middlewares);
 server.use(router);
-server.listen(port, () => {
-    console.log(`JSON Server is running on port ${port}`);
-})
+server.listen(3001, () => {
+  console.log('JSON Server is running on port 3001');
+});
