@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm install json-server",
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node ./node_modules/json-server/lib/bin.js --watch db.json --port $PORT --host 0.0.0.0",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
