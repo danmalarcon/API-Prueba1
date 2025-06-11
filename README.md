@@ -240,7 +240,7 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 👨‍💻 Autor
 
-Desarrollado como backend para la prueba técnica de PixelHub S.A.S
+Desarrollado por Daniel Mazo Alarcón como backend para la simulación de una prueba técnica para una empresa ficticia
 
 ---
 
