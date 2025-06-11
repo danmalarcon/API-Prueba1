@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "t@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "email": "nuevo@user.com",
+      "password": "456"
+    },
+    {
+      "id": "c3b5",
+      "email": "l@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "3d40",
+      "email": "m@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "babb",
+      "email": "o@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "86d4",
+      "email": "r@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "7838",
+      "email": "hola@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "1c30",
+      "email": "s@gmail.com",
+      "password": "12"
+    }
+  ],
+  "suscripciones": [
+    {
+      "id": null,
+      "nombre": "Disney",
+      "categoria": "Entretenimiento",
+      "costo": "12000",
+      "fechaRenovacion": "2019-02-02",
+      "userId": "c3b5"
+    },
+    {
+      "id": null,
+      "nombre": "Disney +",
+      "categoria": "Entretenimiento",
+      "costo": "12000",
+      "fechaRenovacion": "2019-02-02",
+      "userId": "c3b5"
+    },
+    {
+      "id": null,
+      "nombre": "Plus",
+      "categoria": "e",
+      "costo": "2",
+      "fechaRenovacion": "2020-08-02",
+      "userId": "3d40"
+    },
+    {
+      "id": null,
+      "nombre": "Plus +",
+      "categoria": "e",
+      "costo": "2",
+      "fechaRenovacion": "2020-08-02",
+      "userId": "3d40"
+    },
+    {
+      "id": "0fc3",
+      "nombre": "Disney ++",
+      "categoria": "Entretenimiento",
+      "costo": "12000",
+      "fechaRenovacion": "2019-02-02",
+      "userId": "c3b5"
+    },
+    {
+      "nombre": "De bue",
+      "categoria": "Enterteiment",
+      "costo": "120000",
+      "fechaRenovacion": "2021-02-02",
+      "userId": "86d4",
+      "id": "329f"
+    },
+    {
+      "id": "6971",
+      "nombre": "RANGER",
+      "categoria": "Entr",
+      "costo": "10000",
+      "fechaRenovacion": "2021-01-01",
+      "userId": "1"
+    },
+    {
+      "nombre": "Robi",
+      "categoria": "2",
+      "costo": "3",
+      "fechaRenovacion": "2020-02-02",
+      "userId": "1",
+      "id": "8170"
+    }
+  ]
+}
